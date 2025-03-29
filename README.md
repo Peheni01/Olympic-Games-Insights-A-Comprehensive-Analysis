@@ -14,7 +14,7 @@ This project provides a detailed analysis of the Olympic Games from 2000 to 2016
 
 📊 Dashboard 🔗 [View the Olympic Games Analysis Dashboard](https://app.powerbi.com/groups/me/reports/d8c3ca9a-ac6f-4997-9047-a4fd725a1ff8/6776283d5227d7fc028c?experience=power-bi)
 
-![image alt](https://github.com/Peheni01/Olympic-Games-Insights-A-Comprehensive-Analysis/blob/257d888e13b9f75f36ef7465a5db331c28720112/a.%20Dashboard.png)
+![image alt](https://github.com/Peheni01/Olympic-Games-Insights-A-Comprehensive-Analysis/blob/2740931ab739d309767c463e067096ab56d5e0f4/a.%20Dashboard.png)
 ![image alt](https://github.com/Peheni01/Olympic-Games-Insights-A-Comprehensive-Analysis/blob/257d888e13b9f75f36ef7465a5db331c28720112/b.%20Dashboard.png)
 
 ### Results Analysis and Discussion
